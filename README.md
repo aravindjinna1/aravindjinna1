@@ -1,10 +1,21 @@
-- 👋 Hi, I’m aravind
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-- 😄 Pronouns: 
-- ⚡ Fun fact: people's need job without any skills like mee
+👋 Hi, I’m Aravind  
+👀 I’m interested in web development  
+🌱 I’m currently learning JavaScript  
+💞️ I’m looking to collaborate on open-source web development projects or fun coding challenges  
+📫 How to reach me:  
+   - Email: aravindjinna1@gmail.com  
+   - LinkedIn: [Aravind Jinna](https://www.linkedin.com/in/aravind-jinna-48ba2a2a0/)  
+😄 Pronouns: He/Him  
+🕹️ Fun Fact: I once spent a whole weekend building a project... only to realize it already exists.  
+
+🛠️ **Tech Stack:**  
+- HTML, CSS, JavaScript  
+- Learning: React, Node.js  
+- Tools: VS Code, Git, Chrome DevTools  
+
+🌐 **Portfolio:** [Check out my projects here!](https://yourportfolio.com)  
+
+![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindjinna1&show_icons=true&theme=radical)  
 
 <!---
 aravindjinna1/aravindjinna1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
