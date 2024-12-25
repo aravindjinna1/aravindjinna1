@@ -1,6 +1,6 @@
 👋 Hi, I’m Aravind  
 👀 I’m interested in web development  
-🌱 I’m currently learning JavaScript  
+🌱 I’m currently learning React js
 💞️ I’m looking to collaborate on open-source web development projects or fun coding challenges  
 📫 How to reach me:  
    - Email: aravindjinna1@gmail.com  
