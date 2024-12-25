@@ -6,7 +6,7 @@
    - Email: aravindjinna1@gmail.com  
    - LinkedIn: [Aravind Jinna](https://www.linkedin.com/in/aravind-jinna-48ba2a2a0/)  
 😄 Pronouns: He/Him  
-🕹️ Fun Fact: I once spent a whole weekend building a project... only to realize it already exists.  
+🕹️ Fun Fact: I once spent a whole weekend for building a project... only to realize it already exists.  
 
 🛠️ **Tech Stack:**  
 - HTML, CSS, JavaScript  
