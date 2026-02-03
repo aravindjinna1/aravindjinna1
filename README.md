@@ -98,7 +98,8 @@ Focus areas:
 
 ## Contact
 
-- GitHub: https://github.com/aravindjinna1 
+- Gmail: aravindjinna1@gmail.com
+- GitHub: https://github.com/aravindjinna1
 - Linkedin: https://www.linkedin.com/in/jinna-aravind1
 - Open to **internships and entry-level full-stack roles**
 
