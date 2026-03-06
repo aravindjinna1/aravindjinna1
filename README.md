@@ -100,7 +100,7 @@ Focus areas:
 
 - Gmail: aravindjinna1@gmail.com
 - GitHub: https://github.com/aravindjinna1
-- Linkedin: https://www.linkedin.com/in/jinna-aravind1
+- Linkedin: https://www.linkedin.com/in/aravindjinna-fullstackdeveloper
 - Open to **internships and entry-level full-stack roles**
 
 ---
